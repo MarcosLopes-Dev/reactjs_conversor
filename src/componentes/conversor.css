@@ -1,0 +1,24 @@
+.conversor{
+    padding: 40px;
+    max-width: 300px;
+    box-shadow: 0px 4px 8px 0 rgba(0, 0, 0, 0.2);
+    background: radial-gradient(red,black);
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.493);
+  }
+  
+  .botao{
+    background-color: rgb(22, 139, 28);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border-radius: 2 px;
+    padding: 5px;
+    border-radius: 6px;
+    color: rgb(7, 5, 5);
+  }
+  
+  .botao:hover{
+    background-color: rgb(48, 31, 196);
+    cursor: pointer;
+  }
